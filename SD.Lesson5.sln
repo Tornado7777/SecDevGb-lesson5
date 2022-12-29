@@ -5,6 +5,8 @@ VisualStudioVersion = 17.4.33122.133
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SertGenerate", "SertGenerate\SertGenerate.csproj", "{CC0C5FF0-9745-4D5A-B820-F5905C68F81B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsApplication", "WinFormsApplication\WinFormsApplication.csproj", "{B62984E1-641F-4332-B66B-770D17E1E05F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{CC0C5FF0-9745-4D5A-B820-F5905C68F81B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CC0C5FF0-9745-4D5A-B820-F5905C68F81B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CC0C5FF0-9745-4D5A-B820-F5905C68F81B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B62984E1-641F-4332-B66B-770D17E1E05F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B62984E1-641F-4332-B66B-770D17E1E05F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B62984E1-641F-4332-B66B-770D17E1E05F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B62984E1-641F-4332-B66B-770D17E1E05F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
